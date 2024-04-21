@@ -1,6 +1,8 @@
 # DPlayer
 DPlayer 人卫视频离线播放器
 
+目前已经可以解密加密的flv文件，如有需要可以关注公众号，联系本人进行解密。
+
 后续更新欢迎关注公众号：V安全突击队 V安全突击队
 ![image](https://github.com/zixing131/DPlayer/assets/18580281/01c280b4-6db0-4025-aa75-5a3698e32e9d)
 
